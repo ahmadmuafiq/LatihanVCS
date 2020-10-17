@@ -14,6 +14,10 @@
 
 ![gambar git scm](picture/gitversion.PNG)
 
-5. **kemudian buka browser dan buka website Github nya [disini](https://github.com/)**, klik tanda + kemudian pilih New Repository. 
+5. **Setelah melakukan proses instalasi, langkah selanjutnya yaitu membuat akun baru pada GitHub.**
+
+6. **kemudian buka browser dan buka website Github nya [disini](https://github.com/)**, klik tanda + kemudian pilih New Repository. 
 
 ![gambar git scm](picture/web1.png)
+
+7. **
