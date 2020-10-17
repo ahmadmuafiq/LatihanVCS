@@ -3,4 +3,5 @@
 ## LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
 
 1. Buka website github [click here](https://git-scm.com/), kemudian download softwarenya.
-2. kemudian buat akun baru 
+![gambar git scm](picture/gitweb.PNG)
+2. kemudian buat akun baru dengan cara click sign up
