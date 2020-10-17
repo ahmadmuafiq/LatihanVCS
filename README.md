@@ -16,8 +16,11 @@
 
 5. **Setelah melakukan proses instalasi, langkah selanjutnya yaitu membuat akun baru pada GitHub.**
 
-6. **kemudian buka browser dan buka website Github nya [disini](https://github.com/)**, klik tanda + kemudian pilih New Repository. 
+6. **kemudian buka browser dan buka website Github nya [disini](https://github.com/), klik tanda + kemudian pilih New Repository.** 
 
 ![gambar git scm](picture/web1.png)
 
-7. **
+7. **Langkah selanjutnya yaitu buka *file explorer* kemudian klik kanan dan pilih *GitBush Here* seperti pada gambar dibawah**
+
+![gambar git scm](picture/klikkanan.png)
+
