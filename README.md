@@ -16,4 +16,4 @@
 
 5. **kemudian buka browser dan buka website Github nya [disini](https://github.com/)**, klik tanda + kemudian pilih New Repository. 
 
-![gambar git scm](picture/web1.PNG)
+![gambar git scm](picture/web1.png)
