@@ -25,7 +25,10 @@
 ![gambar git scm](picture/klikkanan.png)
 
 8. **Setelah melakukan *GitBush here* anda akan otomatis diarahkan ke CMD, langkah selanjutnya ketik *git clone (copy-paste link dari web github)* seperti gambar dibawah ini**
-![gambar git scm](picture/clone.PNG)
+
 ![gambar git scm](picture/copylink.PNG)
+
+![gambar git scm](picture/clone.PNG)
+
 
 
