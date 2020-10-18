@@ -1,4 +1,11 @@
-**Repository ini dibuat untuk memenuhi tugas bahasa pemrograman**
+**Repository ini dibuat untuk memenuhi tugas bahasa pemrograman pertemuan ke-4**
+
+==================================================
+**Nama      : Ahmad Muafiq**
+**NIM       : 312010152**
+**Kelas     : TI.20.B1**
+
+==================================================
 
 ## LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
 
@@ -10,9 +17,24 @@
 
 3. Setelah instalasi selesai, buka *Software* **Gitbash** pada menu windows atau Dekstop
 
-4. **kemudian untuk melakukan pengecekan versi ketik *git --version*, Enter**
+4. **kemudian untuk melakukan pengecekan versi ketik *git --version***
+
+Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. 
 
 ![gambar git scm](picture/gitversion.PNG)
+
+**Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan syntax berikut :**
+
+*$ git config --global user.name "Masukkan Nama Anda disini" $ git config --global user.email "Masukkan Email Anda disini"*
+
+![gambar git scm](picture/username.PNG)
+
+**Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :**
+
+*$ git config --global user.name* 
+*$ git config --global user.email*
+
+![gambar git scm](picture/usernamejadi.PNG)
 
 5. **Setelah melakukan proses instalasi, langkah selanjutnya yaitu membuat akun baru pada GitHub.**
 
@@ -108,4 +130,6 @@ Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file 
 ## Kesimpulan
 
 **Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git.**
+
+
 
