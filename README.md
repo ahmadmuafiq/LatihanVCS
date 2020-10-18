@@ -4,7 +4,6 @@
 **Nama      : Ahmad Muafiq**<br>
 **NIM       : 312010152**<br>
 **Kelas     : TI.20.B1**<br>
-
 ==================================================
 
 ##       LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
@@ -131,5 +130,6 @@ Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file 
 
 **Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git.**
 
-
-
+<center>
+<img src="LOGOUPB.PNG" alt="Image" height="50" width="50">
+</center>
