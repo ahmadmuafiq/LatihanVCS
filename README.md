@@ -1,6 +1,6 @@
 **Repository ini dibuat untuk memenuhi tugas bahasa pemrograman pertemuan ke-4**
 
-==================================================
+==================================================<br>
 **Nama      : Ahmad Muafiq**<br>
 **NIM       : 312010152**<br>
 **Kelas     : TI.20.B1**<br>
@@ -130,8 +130,4 @@ Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file 
 
 **Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git.**
 
-<center>
-
 ![gambar git scm](picture/LOGOUPB.png)
-
-</center>
