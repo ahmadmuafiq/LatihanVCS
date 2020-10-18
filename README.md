@@ -2,12 +2,14 @@
 
 ==================================================
 **Nama      : Ahmad Muafiq**
+
 **NIM       : 312010152**
+
 **Kelas     : TI.20.B1**
 
 ==================================================
 
-## LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
+##       LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
 
 1. **Buka website github [click here](https://git-scm.com/), kemudian download softwarenya.**
 
