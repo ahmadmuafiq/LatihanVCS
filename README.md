@@ -6,7 +6,7 @@
 **Kelas     : TI.20.B1**<br>
  **==================================================**
 
-# LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT 
+# LANGKAH-LANGKAH PENGGUNAKAN GIT 
 
 1. **Buka website github [click here](https://git-scm.com/), kemudian download softwarenya.**
 
