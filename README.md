@@ -18,7 +18,7 @@
 
 4. **kemudian untuk melakukan pengecekan versi ketik *git --version***
 
-Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. 
+**Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan.** 
 
 ![gambar git scm](picture/gitversion.PNG)
 
@@ -68,7 +68,7 @@ seperti gambar dibawah ini
 
 10. **Ubah Folder Menjadi Repository.**
 
-Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
+**Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:**
 
 $ git init
 
@@ -94,7 +94,7 @@ $ git add .
 
 ![gambar git scm](picture/add.PNG)
 
-12. Membuat Commit 
+12. **Membuat Commit** 
 
 Selanjutnya, Anda perlu membuat Commit. 
 
