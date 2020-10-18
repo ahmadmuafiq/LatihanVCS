@@ -1,11 +1,9 @@
 **Repository ini dibuat untuk memenuhi tugas bahasa pemrograman pertemuan ke-4**
 
 ==================================================
-**Nama      : Ahmad Muafiq**
-
-**NIM       : 312010152**
-
-**Kelas     : TI.20.B1**
+**Nama      : Ahmad Muafiq**<br>
+**NIM       : 312010152**<br>
+**Kelas     : TI.20.B1**<br>
 
 ==================================================
 
