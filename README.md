@@ -29,7 +29,7 @@
 **Jenis Repository   : jenis repository  dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda.**
 **Setelah mengisi detail informasi di atas, klik Create Repository.**
 
-![gambar git scm](picture/newrepo.png)
+![gambar git scm](picture/newrepo.PNG)
 
 8. **Langkah selanjutnya yaitu buka *file explorer* kemudian klik kanan dan pilih *Git Bash Here* seperti pada gambar dibawah**
 
@@ -37,7 +37,7 @@
 
 9. **Setelah melakukan GitBush here* anda akan otomatis diarahkan ke CMD, langkah selanjutnya ketik :**
 
-$ git clone (copy-paste link dari web github)* 
+$ git clone (copy-paste link dari web github)
 
 seperti gambar dibawah ini
 
@@ -46,10 +46,23 @@ seperti gambar dibawah ini
 ![gambar git scm](picture/clone.PNG)
 
 10. **Ubah Folder Menjadi Repository.**
+
 Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
 
 $ git init
 
 ![gambar git scm](picture/init.PNG)
+
+11. **Tambahkan File ke Repository**
+
+Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
+
+Buat file di folder yang sudah dibuat (PRAKTIKUM). 
+
+Buka GitBash lalu masukkan perintah berikut:
+
+$ git add .
+
+**Perintah tersebut tidak akan menghasilkan output apa pun.**
 
 
