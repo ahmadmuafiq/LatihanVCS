@@ -132,6 +132,6 @@ Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file 
 
 <center>
 
-![gambar git scm](picture/LOGOUPB.PNG)
+![gambar git scm](picture/LOGOUPB.png)
 
 </center>
