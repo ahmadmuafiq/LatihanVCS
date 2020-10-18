@@ -131,5 +131,7 @@ Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file 
 **Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git.**
 
 <center>
-<img src="LOGOUPB.png" alt="Image" height="50" width="50">
+
+![gambar git scm](picture/LOGOUPB.PNG)
+
 </center>
