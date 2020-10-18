@@ -59,10 +59,53 @@ Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-
 
 Buat file di folder yang sudah dibuat (PRAKTIKUM). 
 
+Contohnya, di sini kami membuat file README.md
+
+Kemudian edit file tersebut dan simpan.
+
+![gambar git scm](picture/readme.PNG)
+
 Buka GitBash lalu masukkan perintah berikut:
 
 $ git add .
 
 **Perintah tersebut tidak akan menghasilkan output apa pun.**
 
+![gambar git scm](picture/add.PNG)
+
+12. Membuat Commit 
+
+Selanjutnya, Anda perlu membuat Commit. 
+
+Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontributor bisa memberikan konfirmasi update file di proyek yang sedang dikerjakan. Masukkan perintah berikut untuk membuat Commit:
+
+$ git commit -m "update README.md"
+
+Pada tutorial ini kami membuat update README.md sebagai Commit pertama kami. Anda bebas membuat membuat nama Commit apa saja.
+
+![gambar git scm](picture/commit.PNG)
+
+13. **Push ke GitHub**
+
+Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub:
+
+$ git push 
+
+Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
+
+![gambar git scm](picture/login.PNG)
+
+**Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah:**
+
+![gambar git scm](picture/push.PNG)
+
+14. **Cek File** 
+
+Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami menambahkan beberapa file, yaitu picture dan README.md
+
+![gambar git scm](picture/web.PNG)
+
+## Kesimpulan
+
+**Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git.**
 
