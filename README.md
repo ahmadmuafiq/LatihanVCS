@@ -93,7 +93,7 @@ $ git push
 
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
 
-![gambar git scm](picture/login.PNG)
+![gambar git scm](picture/login.png)
 
 **Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah:**
 
