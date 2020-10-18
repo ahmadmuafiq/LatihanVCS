@@ -6,7 +6,7 @@
 **Kelas     : TI.20.B1**<br>
 ==================================================
 
-##       LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
+## LANGKAH-LANGKAH INSTALASI DAN MENGGUNAKAN GIT
 
 1. **Buka website github [click here](https://git-scm.com/), kemudian download softwarenya.**
 
@@ -131,5 +131,5 @@ Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file 
 **Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git.**
 
 <center>
-<img src="LOGOUPB.PNG" alt="Image" height="50" width="50">
+<img src="LOGOUPB.png" alt="Image" height="50" width="50">
 </center>
